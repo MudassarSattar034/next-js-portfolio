@@ -43,7 +43,7 @@ const Nav = ({ openNav }: props) => {
             <Link
               className="md:px-10 md:py-3 px-8 py-3 text-blue-800 font-semibold sm:text-base text-sm bg-white hover:bg-gray-200 transition-all duration-200 rounded-lg"
               target="_blank"
-              href={"https://github.com/ayesha-aziz123"}
+              href="https://www.linkedin.com/in/muhammad-mudassar-sattar-267781255"
             >
               Hire me
             </Link>

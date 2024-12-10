@@ -1,9 +1,14 @@
 export const BaseInfo = {
   name: "Muhammad Mudassar Sattar",
   position: "Full Stack Developer",
-  description: "Hi Im Muhammad Mudassar Sattar, a 22-year-old web Developer from Burewala Pakistan. Ive also developed a strong interest in web development. Im Expertise in HTML, CSS, and JavaScript, TypeScript TailwindCSS to create responsive and functional websites. Looking ahead, I'm also planning to dive deeper React into frameworks like Next.js Powerful Framework ro enhance to deliver high-quality modern web solutions. My goal is to combine my passion for learning with technical expertise to create efficient, user-friendly digital experiences. Lets collaborate and bring your ideas to life!",
+  description: "Hi, I’m Muhammad Mudassar Sattar, a 22-year-old Web Developer based in Burewala, Pakistan. I specialize in building modern, dynamic web applications with a strong foundation in React, Next.js, Node.js, and frontend technologies like HTML, CSS, JavaScript, TypeScript, and Tailwind CSS. My expertise enables me to create responsive, scalable, and high-performance solutions tailored to meet diverse user and business needs. \
+\
+I have a deep passion for web development, continuously exploring advanced tools and frameworks to stay at the forefront of the industry. With React and Next.js, I develop seamless, server-rendered applications that offer enhanced performance and user experiences. By leveraging Node.js on the backend, I build robust and efficient server-side solutions, ensuring end-to-end functionality. \
+\
+My goal is to merge technical proficiency with creativity, crafting user-friendly, efficient digital experiences that deliver value. Let’s collaborate to bring your ideas to life with innovative and effective solutions!",
   profilePic: "/mudassar.png"
-}
+};
+
 
 export const aboutInfo = {
   title: "Crafting Web Application with Passion and Precision",
@@ -93,7 +98,7 @@ export const skillsData = [
     id: 1,
     title: "React",
     image: "/react.svg",
-    percent: "75%",
+    percent: "95%",
   },
   {
     id: 2,
@@ -105,13 +110,13 @@ export const skillsData = [
     id: 3,
     title: "JavaScript",
     image: "/js.svg",
-    percent: "75%",
+    percent: "90%",
   },
   {
     id: 4,
     title: "TypeScript",
     image: "/ts.svg",
-    percent: "80%",
+    percent: "85%",
   },
   {
     id: 5,
@@ -123,19 +128,19 @@ export const skillsData = [
     id: 6,
     title: "Node JS",
     image: "/node.svg",
-    percent: "50%",
+    percent: "85%",
   },
   {
     id: 7,
     title: "Python",
     image: "/python.svg",
-    percent: "50%",
+    percent: "80%",
   },
   {
     id: 8,
     title: "Next.JS",
     image: "/nextCustom.svg",
-    percent: "75%",
+    percent: "95%",
   },
 
 ];
@@ -176,7 +181,7 @@ export const clientReviews = [
 ];
 
 export const contactData = {
-  phone: "+923131148362",
-  email: "ayesha12@gmail.com",
-  address: "Karachi , Pakistan",
+  phone: "+923266986354",
+  email: "mudassargujjar136@gmail.com",
+  address: "Burewala , Pakistan",
 };

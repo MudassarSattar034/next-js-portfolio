@@ -14,7 +14,7 @@ const Footer = () => {
             <div>Review.</div>
             <div>Contact.</div>
         </div>
-        <p className="text-white text-opacity-60 text-center mt-6 text-[13px] lg:text-[18px] ">© 2024 All Rights Reserved Ayesha Aziz </p>
+        <p className="text-white text-opacity-60 text-center mt-6 text-[13px] lg:text-[18px] ">© 2024 All Rights Reserved Mudassar Sattar </p>
         
     </div>
   )

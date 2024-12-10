@@ -26,13 +26,19 @@ const Hero = () => {
             <p className="md:text-base mt-6 text-sm text-white text-opacity-60 ">
               {BaseInfo.description}
             </p>
-            <button
-              className="md:px-8 md:py-2.5 px-6 py-1.5 text-white font-semibold text-sm md:text-lg
-            transition-all duration-200 rounded-lg mt-8 bg-blue-800 hover:bg-blue-900 flex items-center space-x-2"
-            >
-              <span>Download CV</span>
-              <FaDownload />
-            </button>
+            <a
+  href="/Muhammad Mudassar Sattar CV.pdf" // Path to the file in the public folder
+  download // This makes the file downloadable when clicked
+>
+  <button
+    className="md:px-8 md:py-2.5 px-6 py-1.5 text-white font-semibold text-sm md:text-lg
+      transition-all duration-200 rounded-lg mt-8 bg-blue-800 hover:bg-blue-900 flex items-center space-x-2"
+  >
+    <span>Download CV</span>
+    <FaDownload />
+  </button>
+</a>
+
           </div>
 
           {/* Image */}
