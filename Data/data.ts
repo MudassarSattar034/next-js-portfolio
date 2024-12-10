@@ -1,7 +1,7 @@
 export const BaseInfo = {
   name: "Muhammad Mudassar Sattar",
   position: "Full Stack Developer",
-  description: "Hi Im Muhammad Mudassar Sattar, a 19-year-old web Developer from Karachi Pakistan. Ive also developed a strong interest in web development. Im Expertise in HTML, CSS, and JavaScript, TypeScript TailwindCSS to create responsive and functional websites. Looking ahead, I'm also planning to dive deeper React into frameworks like Next.js Powerful Framework ro enhance to deliver high-quality modern web solutions. My goal is to combine my passion for learning with technical expertise to create efficient, user-friendly digital experiences. Lets collaborate and bring your ideas to life!",
+  description: "Hi Im Muhammad Mudassar Sattar, a 22-year-old web Developer from Burewala Pakistan. Ive also developed a strong interest in web development. Im Expertise in HTML, CSS, and JavaScript, TypeScript TailwindCSS to create responsive and functional websites. Looking ahead, I'm also planning to dive deeper React into frameworks like Next.js Powerful Framework ro enhance to deliver high-quality modern web solutions. My goal is to combine my passion for learning with technical expertise to create efficient, user-friendly digital experiences. Lets collaborate and bring your ideas to life!",
   profilePic: "/mudassar.png"
 }
 
@@ -59,11 +59,6 @@ export const servicesData = [
 
 
 export const projectData = [
-  {
-    id: 1,
-    image: "/p3.PNG",
-    url: "https://milestone1-static-interactive-resume-builder-ayesha.vercel.app/"
-  },
   {
     id: 2,
     image: "/p6.PNG",
