@@ -68,7 +68,7 @@ const About = () => {
               width={80}
               height={80}
             />
-            <p className="mt-3 font-bold text-xl text-white text-center">{aboutInfo.experrience} </p>
+            <p className="mt-3 font-bold text-xl text-white text-center">{aboutInfo.experience} </p>
             <p className="text-base sm:text-lg text-gray-400 text-center">Years Experience</p>
           </div>
           {/* 3 */}
