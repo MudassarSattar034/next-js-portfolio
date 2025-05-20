@@ -84,11 +84,7 @@ export const projectData = [
     image: "/p2.PNG",
     url: "https://tic-tac-toe-game-ayesha.vercel.app/"
   },
-  {
-    id: 5,
-    image: "/p7.PNG",
-    url: "https://my-portfolio-ayesha-aziz.vercel.app/"
-  },
+  
 ]
 
 
