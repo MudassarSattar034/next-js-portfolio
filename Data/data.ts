@@ -84,6 +84,11 @@ export const projectData = [
     image: "/p2.PNG",
     url: "https://tic-tac-toe-game-ayesha.vercel.app/"
   },
+  {
+    id: 6,
+    image: "/p3.PNG",
+    url: "https://thedarkbytes.com/"
+  },
   
 ]
 
