@@ -92,7 +92,7 @@ const About = () => {
               width={80}
               height={80}
             />
-            <p className="mt-3 font-bold text-xl text-white text-center">{aboutInfo.weebsite} </p>
+            <p className="mt-3 font-bold text-xl text-white text-center">{aboutInfo.website} </p>
             <p className="text-base sm:text-lg text-gray-400 text-center">
             Website Launched</p>
           </div>
