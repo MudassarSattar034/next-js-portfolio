@@ -12,7 +12,7 @@ const Hero = () => {
           <div>
             {/* SUB HEADING */}
             <h1 className="text-2xl md:text-3xl lg:text-4xl mb-5 text-gray-300 font-semibold">
-              I am {BaseInfo.name}
+              {BaseInfo.name}
             </h1>
             {/* TITLE */}
             <h1
