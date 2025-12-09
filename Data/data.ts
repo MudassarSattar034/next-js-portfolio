@@ -1,7 +1,7 @@
 export const BaseInfo = {
   name: "Muhammad Mudassar Sattar",
   position: "Full Stack Developer",
-  description: "Hi, I’m Muhammad Mudassar Sattar, a 22-year-old Web Developer based in Burewala, Pakistan. I specialize in building modern, dynamic web applications with a strong foundation in React, Next.js, Node.js, and frontend technologies like HTML, CSS, JavaScript, TypeScript, and Tailwind CSS. My expertise enables me to create responsive, scalable, and high-performance solutions tailored to meet diverse user and business needs. \
+  description: "Hi, I’m Muhammad Mudassar Sattar, a 24-year-old Web Developer based in Lahore, Pakistan. I specialize in building modern, dynamic web applications with a strong foundation in React, Next.js, Node.js, and frontend technologies like HTML, CSS, JavaScript, TypeScript, and Tailwind CSS. My expertise enables me to create responsive, scalable, and high-performance solutions tailored to meet diverse user and business needs. \
 \
 I have a deep passion for web development, continuously exploring advanced tools and frameworks to stay at the forefront of the industry. With React and Next.js, I develop seamless, server-rendered applications that offer enhanced performance and user experiences. By leveraging Node.js on the backend, I build robust and efficient server-side solutions, ensuring end-to-end functionality. \
 \
